@@ -5,9 +5,9 @@ avatar_filename: 143253-1-.jpg
 bio: My research interests include Dynamical Systems and Control, Safe Learning
   and Stability Exploration.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dynamical Systems and Control
+  - Safe Learning
+  - Optimization
 social:
   - icon: envelope
     icon_pack: fas
