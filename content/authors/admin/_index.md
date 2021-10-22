@@ -42,8 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Huang Hejun is a research assistant of dynamical systems and control at the Mechanical and Automation Department of The Chinese University of Hong Kong. His research interests include Dynamical Systems and Control, Gaussian Processes, Safe Learning, Region of Attraction Exploration and Sum-of-squares programming. Supervised by Dr. Han Dongkun, he also develops micro-modules, online E-learning platform for junior teaching staffs or teaching assistants in the faculty of engineering.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
