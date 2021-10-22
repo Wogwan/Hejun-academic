@@ -1,7 +1,7 @@
 ---
 title: Huang Hejun
 role: Research Assistant
-avatar_filename: 143253-1-.jpg
+avatar_filename: 143253-1
 bio: My research interests include Dynamical Systems and Control, Safe Learning
   and Stability Exploration.
 interests:
