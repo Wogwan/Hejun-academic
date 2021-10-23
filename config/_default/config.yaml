@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hejun's Website # Website name
+title: 'Hejun's Website' # Website name
 baseurl: 'https://huanghejun.com/' # Website URL
 copyright: "Wogwan &copy; 2021"
 
