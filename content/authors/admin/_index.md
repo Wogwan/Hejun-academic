@@ -1,7 +1,7 @@
 ---
 title: Huang Hejun
 role: Research Assistant
-avatar_filename: 143253.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Dynamical Systems and Control, Safe Learning
   and Stability Exploration.
 interests:
@@ -22,14 +22,6 @@ social:
   - icon: whatsapp
     icon_pack: fab
     link: https://wa.me/85253904172
-
-  # - icon: graduation-cap
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
 organizations:
   - name: The Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/
