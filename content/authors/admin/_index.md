@@ -8,32 +8,33 @@ interests:
   - Dynamical Systems and Control
   - Safe Learning
   - Optimization
+  - Reinforcement Learning
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/hejun_huang
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Wogwan
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/
 education:
   courses:
     - course: MSc in Mechanical and Automation Engineering
-      institution: Chinese University of Hong Kong
+      institution: The Chinese University of Hong Kong
       year: 2020
     - course: BEng in Mechatronic Engineering
-      institution: North China Electric Power University
+      institution: The North China Electric Power University
       year: 2019
 email: "hejunhuang@cuhk.edu.hk"
 superuser: true
