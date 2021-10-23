@@ -28,7 +28,7 @@ organizations:
     url: https://www.cuhk.edu.hk/
 education:
   courses:
-    - course: MSc in Mechanical & Automation Engineering
+    - course: MSc in Mechanical and Automation Engineering
       institution: The Chinese University of Hong Kong
       year: 2020
     - course: BEng in Mechatronic Engineering
