@@ -6,9 +6,10 @@ bio: My research interests include Dynamical Systems and Control, Safe Learning
   and Stability Exploration.
 interests:
   - Dynamical Systems and Control
-  - Safe Learning
   - Optimization
+  - Safe Learning
   - Reinforcement Learning
+  - Gaussian Processes
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,7 +28,7 @@ organizations:
     url: https://www.cuhk.edu.hk/
 education:
   courses:
-    - course: MSc in Mechanical and Automation Engineering
+    - course: MSc in Mechanical & Automation Engineering
       institution: The Chinese University of Hong Kong
       year: 2020
     - course: BEng in Mechatronic Engineering
