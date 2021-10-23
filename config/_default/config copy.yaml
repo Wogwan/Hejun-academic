@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hejun Huang # Website name
-baseurl: 'https://huanghejun.com/' # Website URL
-copyright: "Wogwan.io &copy; 2021"
+title: Academic # Website name
+baseurl: 'https://example.com/' # Website URL
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
