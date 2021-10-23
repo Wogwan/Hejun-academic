@@ -19,7 +19,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Wogwan
-  - icon: Whatsapp
+  - icon: whatsapp
     icon_pack: fab
     link: https://wa.me/85253904172
 
